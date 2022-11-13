@@ -1,0 +1,22 @@
+body{
+  background-image: url("natures_beauty.jpg");
+  background-color: aqua;
+
+}
+#box{
+  display:block;
+  width:300px;
+  height:300px;
+  text-align: center;
+  border:2px solid black;
+  padding:10px;
+  margin: 100px auto;
+  color:red;
+  opacity:1;
+  
+  /* it allows the text to be visible
+  opacity=1=100%,0=50%,0.5=50%;*/ 
+}
+.class{
+  color:blue;
+}
